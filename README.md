@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on<br><br>StockBite — real-time inventory dashboard with atomic stock updates (PostgreSQL)<br>SkillBridge — AI-powered resume & competency gap analyzer (FastAPI + LLM)<br><br>🤝 I'm looking to collaborate on<br><br>AI/ML and data-driven applications<br>Real-time backend systems<br><br>💬 Ask me about<br><br>Python, Machine Learning, NLP<br>PostgreSQL, FastAPI, backend design<br><br>🌱 I'm currently learning<br><br>Machine Learning & NLP<br>Data Structures & Algorithms<br><br>⚡ Fun fact<br><br>My code compiles on the first try... occasionally!!
+🔭 I'm currently working on<br>StockBite — real-time inventory dashboard with atomic stock updates (PostgreSQL)<br>SkillBridge — AI-powered resume & competency gap analyzer (FastAPI + LLM)<br><br>🤝 I'm looking to collaborate on<br>AI/ML and data-driven applications<br>Real-time backend systems<br><br>💬 Ask me about<br>Python, Machine Learning, NLP<br>PostgreSQL, FastAPI, backend design<br><br>🌱 I'm currently learning<br>Machine Learning & NLP<br>Data Structures & Algorithms<br><br>⚡ Fun fact<br>My code compiles on the first try... occasionally!!
 
 
 ## 🌐 Socials:
